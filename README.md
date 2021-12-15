@@ -4,7 +4,7 @@
 In this Unity Project, we experimented with creating all kinds of VFX Graphs, Shaders and Parametric Surfaces.
 
 ## Controls
-Use wasd to move, and the mouse to look around the room.
+Use WASD to move, and the mouse to look around the room.
 
 ## Group Work
 ### Teampartner: Laura Unverzagt - https://lilotm.github.io/#
@@ -19,17 +19,17 @@ Use wasd to move, and the mouse to look around the room.
 * First Person Player Control
 
 ## Sources
-Fairy Dust: 
+* Fairy Dust: 
 https://www.youtube.com/watch?v=LhvnIOlmXMM
-Lightning Bolt: 
+* Lightning Bolt: 
 https://www.youtube.com/watch?v=40m_HUENh3E
-Hologram:
+* Hologram:
 https://www.youtube.com/watch?v=KGGB5LFEejg
-Hourglass:
+* Hourglass:
 https://ltcconline.net/greenl/courses/202/vectorIntegration/parametricSurfaces.htm
-Snail:
+* Snail:
 https://www.qtiplot.com/plot3D.html
-DentedCube:
+* DentedCube:
 https://mathworld.wolfram.com/SineSurface.html
-First Person Player Control: 
+* First Person Player Control: 
 https://www.youtube.com/watch?v=_QajrabyTJc
