@@ -10,13 +10,13 @@ Use wasd to move, and the mouse to look around the room.
 ### Teampartner: Laura Unverzagt - https://lilotm.github.io/#
 
 ### my work
-*Fairy Dust VFX
-*Lightning Bolt 
-*Hologram Shader
-*Hourglass Surface
-*Snail Surface
-*DentedCube Surface
-*First Person Player Control
+* Fairy Dust VFX
+* Lightning Bolt 
+* Hologram Shader
+* Hourglass Surface
+* Snail Surface
+* DentedCube Surface
+* First Person Player Control
 
 ## Sources
 Fairy Dust: 
