@@ -10,7 +10,8 @@ Use WASD to move, and the mouse to look around the room.
 ### Teampartner: Laura Unverzagt - https://lilotm.github.io/#
 
 ### my work
-* Fairy Dust VFX
+* Fairy Dust
+* Fire Smoke
 * Lightning Bolt 
 * Hologram Shader
 * Hourglass Surface
